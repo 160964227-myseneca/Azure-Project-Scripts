@@ -6,8 +6,8 @@ source ./network_config.sh
 # /////////////////////////////////////////////////////////////
 # ---------------------------------------------------
 # Windows VM Credentials
-USER_NAME=""
-ADMIN_PW=""
+USER_NAME="azureuser"
+ADMIN_PW="Pa55w.rd1234"
 
 # ---------------------------------------------------
 # sshkey pair names
